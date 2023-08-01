@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Rémi, <b>Fullstack Web3 developer</b> from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/><br>
-I'm teaching web development and I build some web3 stuff when I have time
+I'm teaching web development and I build some web3 stuff on my free time
 </p>
 
 <h3>Stuffs I code with</h3>
