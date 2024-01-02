@@ -5,6 +5,17 @@
 I'm teaching web development and I build some web3 stuff on my free time
 </p>
 
+<hr />
+
+<h3>Projects i'm working on</h3>
+
+- <a href="https://0xrtekk.github.io/Family-staking/" target="_blank">Decentralized app for staking on Sepolia (Ethereum testnet)</a>
+- USDC bridge between EVM blockchains
+- Decentralized app to send tokens on Polygon blockchain
+- Personnal website using Webflow & Spline
+
+<hr />
+
 <h3>Stuffs I code with</h3>
 
 <p>
