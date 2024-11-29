@@ -3,7 +3,7 @@
 <p>
   <strong>Senior Full-Stack Developer</strong> | <strong>Prgramming Teacher</strong> | <strong>Blockchain Enthusiast</strong><br>
   Based in France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>, I specialize in building robust web applications with a user-centric approach.  
-  With over 5 years of experience, I focus on creating scalable, efficient, and innovative solutions using my core stack: **React.js**, **Node.js**, **PostgreSQL** and **Docker**.  
+  With over 5 years of experience, I focus on creating scalable, efficient, and innovative solutions using my core stack: <strong>React.js</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong> and <strong>Docker</strong>.  
 </p>
 
 ## 👨‍💻 **About Me**
